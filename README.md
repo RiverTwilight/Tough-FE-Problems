@@ -2,7 +2,7 @@
 
 ## Map 返回 Object 时的 Lint 问题
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d34ae09a-fde3-41cf-a69c-2753f405b72a/Untitled.png)
+![image](https://user-images.githubusercontent.com/52880665/196023762-76da513c-f5e6-4063-aee0-d45d18033c61.png)
 
 ```jsx
 const launchOptimistic = rockets.map((elem) => ({
